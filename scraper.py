@@ -20,4 +20,4 @@ if response.status_code == 200:
             print("Button with text 'BUY TICKETS' found.")
             # Log the button if needed
 else:
-    print("Failed to retrieve the webpage")
+    print("Failed to retrieve the webpage!")
